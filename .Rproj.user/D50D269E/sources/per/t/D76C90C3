@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568831860028.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D76C90C3",
+    "lastKnownWriteTime" : 2398960413760,
+    "last_content_update" : 1568831860028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "31744E6D",
+        "caption" : "dooa",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dooa&cache_key=31744E6D",
+        "displayedObservations" : "30",
+        "environment" : "",
+        "expression" : "dooa",
+        "object" : "dooa",
+        "preview" : "0",
+        "totalObservations" : "30",
+        "variables" : "14"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

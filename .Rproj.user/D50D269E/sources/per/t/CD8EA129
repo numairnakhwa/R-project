@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568686609907.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CD8EA129",
+    "lastKnownWriteTime" : 8315178114391286304,
+    "last_content_update" : 1568686609907,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5B31B821",
+        "caption" : "Crop_Data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Crop_Data&cache_key=5B31B821",
+        "displayedObservations" : "690",
+        "environment" : "",
+        "expression" : "Crop_Data",
+        "object" : "Crop_Data",
+        "preview" : "0",
+        "totalObservations" : "690",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

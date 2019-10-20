@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568167366085.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4203059705",
+    "id" : "2B400673",
+    "lastKnownWriteTime" : 1568919167,
+    "last_content_update" : 1568919167807,
+    "path" : "E:/Users/ABC/Desktop/MY BID PROJECT/MainProject/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "250,0",
+        "scrollLine" : "226"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568831743431.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4AA1C293",
+    "lastKnownWriteTime" : 2459013921659036276,
+    "last_content_update" : 1568831743431,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5451917C",
+        "caption" : "other_prices",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=other_prices&cache_key=5451917C",
+        "displayedObservations" : "168",
+        "environment" : "",
+        "expression" : "other_prices",
+        "object" : "other_prices",
+        "preview" : "0",
+        "totalObservations" : "168",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

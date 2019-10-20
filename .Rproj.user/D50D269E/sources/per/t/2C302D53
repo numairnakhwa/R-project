@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568817598409.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "285126079",
+    "id" : "2C302D53",
+    "lastKnownWriteTime" : 1568888651,
+    "last_content_update" : 1568888651842,
+    "path" : "E:/Users/ABC/Desktop/MY BID PROJECT/MainProject/for_other_prices.R",
+    "project_path" : "for_other_prices.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

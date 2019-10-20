@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568632353048.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EA0A2BE7",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1568632353048,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6E42F249",
+        "caption" : "mango_p",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mango_p&cache_key=6E42F249",
+        "displayedObservations" : "11007",
+        "environment" : "",
+        "expression" : "mango_p",
+        "object" : "mango_p",
+        "preview" : "0",
+        "totalObservations" : "11007",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

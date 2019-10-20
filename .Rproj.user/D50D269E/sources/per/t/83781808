@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568891047922.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "83781808",
+    "lastKnownWriteTime" : 2314885436531881780,
+    "last_content_update" : 1568891047922,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "34A9A7A5",
+        "caption" : "cashew_p",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cashew_p&cache_key=34A9A7A5",
+        "displayedObservations" : "362",
+        "environment" : "",
+        "expression" : "cashew_p",
+        "object" : "cashew_p",
+        "preview" : "0",
+        "totalObservations" : "362",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
